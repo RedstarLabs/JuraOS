@@ -54,3 +54,7 @@ vault/.obsidian/cache/
 
 # Lokale persönliche Konfiguration
 vault/.obsidian/community-plugins.json
+
+# Persönliche Wochenplanungen
+vault/02 Studium/Wochenplanung/*
+!vault/02 Studium/Wochenplanung/README.md
