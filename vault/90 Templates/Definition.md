@@ -19,8 +19,8 @@ status: draft
 
 ## Quellen
 
-- 
+-
 
 ## Offene Fragen
 
-- 
+-

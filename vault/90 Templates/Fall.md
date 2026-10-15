@@ -31,4 +31,4 @@ status: in_bearbeitung
 
 ## Quellen
 
-- 
+-
