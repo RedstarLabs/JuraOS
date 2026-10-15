@@ -1,5 +1,7 @@
-Das ist dein neuer *Vault*.
+# Willkommen bei JuraOS
 
-Notiere dir etwas oder, [[Neuer Link|erstelle einen neuen Link]], oder probiere [die Importer-Erweiterung aus](obsidian://show-plugin?id=obsidian-importer)!
+JuraOS unterstützt dich dabei, dein Studium zu organisieren und Wissen schrittweise aufzubauen.
 
-Wenn du soweit bist kannst du diese Seite löschen und den Vault ganz nach deinen Wünschen und Vorstellungen gestalten.
+Beginne auf der [[00 Dashboard/Startseite|Startseite]] und öffne von dort dein Semester-Dashboard.
+
+Die Struktur wächst mit deinen Lehrveranstaltungen. Es werden nur dann neue Themen angelegt, wenn du sie tatsächlich benötigst.

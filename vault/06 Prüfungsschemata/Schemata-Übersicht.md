@@ -1,14 +1,41 @@
+---
+type: index
+scope: schemas
+---
+
 # Prüfungsschemata – Übersicht
 
-## Zivilrecht
+Prüfungsschemata strukturieren die rechtliche Prüfung. Sie sollen verstanden und angewendet werden können, nicht nur auswendig gelernt werden.
 
-## Öffentliches Recht
+## Schemata nach Lehrveranstaltung
 
-## Strafrecht
+### Zivilrecht I
+Hier tatsächlich behandelte Schemata verlinken.
 
-## Arbeitsweise
+### Staatsrecht I
+Hier tatsächlich behandelte Schemata verlinken.
 
-1. Schema anhand zuverlässiger Quellen überprüfen.
-2. Voraussetzungen verstehen.
-3. Mit Definitionen und Normen verknüpfen.
-4. An Fällen anwenden.
+### Strafrecht I
+Hier tatsächlich behandelte Schemata verlinken.
+
+## Ein Schema erarbeiten
+
+1. Prüfungsgegenstand und Zweck bestimmen.
+2. Rechtsgrundlagen anhand verlässlicher Quellen prüfen.
+3. Prüfungsschritte in eine nachvollziehbare Reihenfolge bringen.
+4. Voraussetzungen und wichtige Definitionen ergänzen.
+5. Das Schema anhand geeigneter Fälle anwenden.
+
+## Qualitätskontrolle
+
+- Sind alle Prüfungsschritte fachlich belegt?
+- Ist die Reihenfolge nachvollziehbar?
+- Sind Voraussetzungen und Ausnahmen korrekt?
+- Wurde das Schema praktisch angewendet?
+
+## Verknüpfte Bereiche
+
+- [[../05 Fälle/Fälle-Übersicht|Fälle und Fallbearbeitung]]
+- [[../07 Karteikarten/Karteikarten-Übersicht|Karteikarten]]
+
+Neue Schemata können mit der Vorlage [[../90 Templates/Prüfungsschema|Prüfungsschema]] erstellt werden.

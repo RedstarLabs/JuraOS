@@ -2,65 +2,54 @@
 type: dashboard
 scope: semester
 status: active
+semester: WS 2026/27
 ---
 
-# Semester-Dashboard
+# Semester-Dashboard – WS 2026/27
 
-> [!abstract] Zweck
-> Überblick über Lehrveranstaltungen, Lernziele und offene Fragen. Persönliche Lernstände gehören in den privaten Vault.
+Hier findest du alle Lehrveranstaltungen des aktuellen Semesters. Die fachlichen Inhalte werden schrittweise anhand der Vorlesungen ergänzt.
 
 ## Lehrveranstaltungen
 
-| Veranstaltung | Unterlagen | Nächster Schritt |
-|---|---|---|
-| Zivilrecht | [[../08 Quellen/Vorlesungsunterlagen]] | Unterlagen ergänzen |
-| Strafrecht | [[../08 Quellen/Vorlesungsunterlagen]] | Unterlagen ergänzen |
-| Öffentliches Recht | [[../08 Quellen/Vorlesungsunterlagen]] | Unterlagen ergänzen |
-| Rechtsphilosophie | [[../03 Rechtsgebiete/Rechtsphilosophie]] | Themen erfassen |
-| Weitere Veranstaltung | | |
+### Öffentliches Recht
+- [[../02 Studium/Lehrveranstaltungen/Staatsrecht I|Staatsrecht I]]
+
+### Strafrecht
+- [[../02 Studium/Lehrveranstaltungen/Strafrecht I|Strafrecht I]]
+
+### Zivilrecht
+- [[../02 Studium/Lehrveranstaltungen/Zivilrecht I|Zivilrecht I]]
+
+### Geschichte und Grundlagen
+- [[../02 Studium/Lehrveranstaltungen/Deutsche Rechtsgeschichte|Deutsche Rechtsgeschichte]]
+- [[../02 Studium/Lehrveranstaltungen/Einführung in die Rechtswissenschaft|Einführung in die Rechtswissenschaft]]
+- [[../02 Studium/Lehrveranstaltungen/Römisches Recht|Römisches Recht]]
+
+### Sprache
+- [[../02 Studium/Lehrveranstaltungen/Einführung in die deutsche Rechtssprache|Einführung in die deutsche Rechtssprache]]
+- [[../02 Studium/Lehrveranstaltungen/Latein für Juristen I|Latein für Juristen I]]
 
 ## Semesterziele
 
 - [ ] Vorlesungsinhalte zeitnah aufarbeiten
-- [ ] Definitionen präzise formulieren und belegen
-- [ ] Prüfungsschemata verstehen und aktiv abrufen
-- [ ] Fälle im Gutachtenstil bearbeiten
-- [ ] Fehler systematisch analysieren
+- [ ] Zentrale Begriffe präzise erklären und mit Quellen belegen
+- [ ] Gelerntes regelmäßig ohne Hilfsmittel abrufen
+- [ ] Fälle bearbeiten, soweit sie zu den Lehrveranstaltungen gehören
+- [ ] Offene Fragen und Wissenslücken festhalten
 
 ## Lernkreislauf
 
-1. **Erfassen:** Vorlesung, Skript oder Literatur auswerten.
-2. **Prüfen:** Aussagen anhand verlässlicher Quellen überprüfen.
-3. **Strukturieren:** Definitionen, Normen und Schemata verknüpfen.
-4. **Abrufen:** Wissen ohne Unterlagen wiedergeben.
-5. **Anwenden:** Fälle bearbeiten und Ergebnisse begründen.
-6. **Verbessern:** Fehler analysieren und Wissenslücken schließen.
-
-## Fachliche Schwerpunkte
-
-- [[../03 Rechtsgebiete/Zivilrecht|Zivilrecht]]
-- [[../03 Rechtsgebiete/Strafrecht|Strafrecht]]
-- [[../03 Rechtsgebiete/Öffentliches Recht|Öffentliches Recht]]
-- [[../03 Rechtsgebiete/Rechtsphilosophie|Rechtsphilosophie]]
-- [[../03 Rechtsgebiete/Völkerrecht|Völkerrecht]]
-
-## Offene fachliche Fragen
-
-- Welche Fragen müssen anhand von Normen oder Literatur geklärt werden?
-- Welche Definitionen oder Prüfungsschritte sind noch unsicher?
-- Welche Themen eignen sich für eine Fallbearbeitung?
-
-## Regelmäßige Reflexion
-
-- Was habe ich verstanden?
-- Was kann ich bereits ohne Hilfsmittel abrufen?
-- Wo mache ich wiederholt Fehler?
-- Was ist der nächste sinnvolle Lernschritt?
+1. Vorlesungsinhalte erfassen.
+2. Unklare Punkte und offene Fragen markieren.
+3. Inhalte anhand verlässlicher Quellen überprüfen.
+4. Wichtige Begriffe und Zusammenhänge verknüpfen.
+5. Wissen aktiv abrufen und anwenden.
+6. Fehler und Wissenslücken nacharbeiten.
 
 ## Weiterführende Bereiche
 
-- [[Wochenplanung]]
-- [[../05 Fälle/Fälle-Übersicht|Fallübersicht]]
+- [[00 Dashboard/Wochenplanung|Wochenplanung]]
+- [[../05 Fälle/Fälle-Übersicht|Fälle und Fallbearbeitung]]
 - [[../06 Prüfungsschemata/Schemata-Übersicht|Prüfungsschemata]]
 - [[../07 Karteikarten/Karteikarten-Übersicht|Karteikarten]]
 - [[../08 Quellen/Quellen-Übersicht|Quellenbibliothek]]

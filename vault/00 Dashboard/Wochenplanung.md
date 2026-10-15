@@ -1,87 +1,32 @@
 ---
-type: planning
-scope: week
-status: template
+type: dashboard
+scope: weekly-planning
 ---
 
 # Wochenplanung
 
-> [!info] Anwendung
-> Diese Seite ist eine Vorlage. Für eine neue Woche eine Kopie erstellen und die Aufgaben dort bearbeiten.
+Plane deine Lernwoche, halte offene Aufgaben fest und überprüfe am Ende der Woche deinen Fortschritt.
 
-## Wochenfokus
+## Neue Woche anlegen
 
-- **Woche ab:** {{date}}
-- **Wichtigstes Lernziel:**
-- **Verfügbare Lernzeit:**
-- **Priorität 1:**
-- **Priorität 2:**
-- **Priorität 3:**
+1. Öffne die Vorlage `90 Templates/Wochenplanung.md`.
+2. Erstelle daraus eine neue Notiz für die betreffende Woche.
+3. Speichere persönliche Wochenpläne unter `02 Studium/Wochenplanung/`.
+4. Verknüpfe wichtige Aufgaben mit Rechtsgebieten, Fällen oder Prüfungsschemata.
 
-## Aufgabenübersicht
+## Bestandteile einer guten Wochenplanung
 
-| Aufgabe | Fach | Priorität | Geschätzte Minuten | Status |
-|---|---|---|---:|---|
-| | | Hoch / Mittel / Niedrig | | Offen |
+- **Lernziele:** Was soll am Ende der Woche beherrscht werden?
+- **Aufgaben:** Welche konkreten Schritte führen dorthin?
+- **Aktiver Wissensabruf:** Welche Definitionen und Schemata kann ich ohne Hilfsmittel wiedergeben?
+- **Fallbearbeitung:** Welches Wissen kann ich praktisch anwenden?
+- **Rückblick:** Welche Fehler und Wissenslücken muss ich nacharbeiten?
 
-## Tagesplanung
+## Weiterführende Bereiche
 
-### Montag
-- [ ] Wichtigste Aufgabe:
-- [ ] Wiederholung:
-
-### Dienstag
-- [ ] Wichtigste Aufgabe:
-- [ ] Wiederholung:
-
-### Mittwoch
-- [ ] Wichtigste Aufgabe:
-- [ ] Wiederholung:
-
-### Donnerstag
-- [ ] Wichtigste Aufgabe:
-- [ ] Wiederholung:
-
-### Freitag
-- [ ] Wichtigste Aufgabe:
-- [ ] Wiederholung:
-
-### Samstag
-- [ ] Fallbearbeitung oder Vertiefung:
-- [ ] Wochenstoff wiederholen:
-
-### Sonntag
-- [ ] Leichte Wiederholung:
-- [ ] Nächste Woche vorbereiten:
-
-## Aktiver Wissensabruf
-
-- [ ] Definitionen ohne Unterlagen wiedergeben
-- [ ] Prüfungsschemata aus dem Gedächtnis rekonstruieren
-- [ ] Karteikarten bearbeiten
-- [ ] Fehler aus früheren Fällen erneut prüfen
-- [ ] Offene Fragen anhand verlässlicher Quellen klären
-
-## Wochenrückblick
-
-### Was hat gut funktioniert?
-
--
-
-### Was ist offen geblieben?
-
--
-
-### Welche Fehler sind wiederholt aufgetreten?
-
--
-
-### Was ändere ich nächste Woche?
-
--
-
-## Verknüpfungen
-
-- [[Semester-Dashboard]]
-- [[../05 Fälle/Fälle-Übersicht|Fallübersicht]]
+- [[Semester-Dashboard|Semester-Dashboard]]
+- [[../05 Fälle/Fälle-Übersicht|Fälle und Fehleranalyse]]
 - [[../06 Prüfungsschemata/Schemata-Übersicht|Prüfungsschemata]]
+- [[../07 Karteikarten/Karteikarten-Übersicht|Karteikarten]]
+
+**Datenschutz:** Persönliche Wochenpläne bleiben lokal und werden nicht in das öffentliche Repository übernommen.

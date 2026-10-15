@@ -20,7 +20,7 @@ status: template
 
 ## Aufgabenübersicht
 
-| Aufgabe | Fach | Priorität | Geschätzte Minuten | Status |
+| Aufgabe | Lehrveranstaltung | Priorität | Geschätzte Minuten | Status |
 |---|---|---|---:|---|
 | | | Hoch / Mittel / Niedrig | | Offen |
 
@@ -82,6 +82,6 @@ status: template
 
 ## Verknüpfungen
 
-- [[Semester-Dashboard]]
-- [[../05 Fälle/Fälle-Übersicht|Fallübersicht]]
+- [[../00 Dashboard/Semester-Dashboard|Semester-Dashboard]]
+- [[../05 Fälle/Fälle-Übersicht|Fälle und Fehleranalyse]]
 - [[../06 Prüfungsschemata/Schemata-Übersicht|Prüfungsschemata]]

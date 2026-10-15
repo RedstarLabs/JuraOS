@@ -1,12 +1,10 @@
+---
+type: subject-area
+status: inactive
+---
+
 # Rechtsphilosophie
 
-## Themen
+Dieser Wissensbereich ist derzeit kein Bestandteil der aktiven Lehrveranstaltungsübersicht. Er bleibt für eine spätere Erweiterung erhalten.
 
-- Rechtsbegriff und Rechtsgeltung
-- Naturrecht und Rechtspositivismus
-- Gerechtigkeitstheorien
-- Verhältnis von Recht und Moral
-
-## Fragen
-
-- Was unterscheidet rechtliche Geltung von moralischer Richtigkeit?
+Mögliche Themen werden erst ergänzt, wenn sie für eine konkrete Lehrveranstaltung oder ein Projekt benötigt werden.

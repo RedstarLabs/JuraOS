@@ -1,12 +1,10 @@
+---
+type: subject-area
+status: reference
+---
+
 # Strafrecht
 
-## Rechtsgebiete
+Dieser allgemeine Wissensbereich verweist auf die aktuelle Lehrveranstaltung [[../02 Studium/Lehrveranstaltungen/Strafrecht I|Strafrecht I]].
 
-- [[Strafrecht AT]]
-- [[Strafrecht BT]]
-
-## Lernziele
-
-- Tatbestandsmäßigkeit prüfen
-- Rechtswidrigkeit und Schuld unterscheiden
-- Strafrechtliche Fälle strukturiert lösen
+Weitere Unterthemen werden erst angelegt, wenn sie in der Vorlesung benötigt werden.

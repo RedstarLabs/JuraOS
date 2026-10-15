@@ -1,14 +1,10 @@
+---
+type: subject-area
+status: inactive
+---
+
 # Völkerrecht
 
-## Themen
+Dieser Wissensbereich bleibt für eine spätere Erweiterung erhalten, ist aber derzeit kein Bestandteil der aktiven Lehrveranstaltungsübersicht.
 
-- Völkerrechtssubjekte
-- Völkerrechtsquellen
-- Völkerrechtliche Verträge
-- Staatenverantwortlichkeit
-- Internationale Gerichtsbarkeit
-
-## Weiterführende Interessen
-
-- [[Internationales Strafrecht]]
-- [[Menschenrechte]]
+Themen wie Menschenrechte und internationales Strafrecht werden erst ergänzt, wenn sie im Studium oder in einem konkreten Projekt relevant werden.

@@ -1,15 +1,10 @@
+---
+type: subject-area
+status: reference
+---
+
 # Zivilrecht
 
-## Rechtsgebiete
+Dieser allgemeine Wissensbereich verweist auf die aktuelle Lehrveranstaltung [[../02 Studium/Lehrveranstaltungen/Zivilrecht I|Zivilrecht I]].
 
-- [[BGB AT]]
-- [[Schuldrecht AT]]
-- [[Schuldrecht BT]]
-- [[Sachenrecht]]
-
-## Lernziele
-
-- Anspruchsgrundlagen erkennen
-- Anspruchsaufbau sicher anwenden
-- Willenserklärungen und Verträge prüfen
-- Zivilrechtliche Fälle im Gutachtenstil lösen
+Weitere Unterthemen werden erst angelegt, wenn sie in der Vorlesung benötigt werden.
