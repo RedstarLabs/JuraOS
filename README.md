@@ -1,41 +1,42 @@
 # JuraOS
 
-Eine plattformübergreifende Obsidian-Lernplattform für das Jurastudium.
+Eine übersichtliche, plattformübergreifende Obsidian-Lernplattform für das Jurastudium.
 
-## Ziele
-
-- Strukturierte juristische Wissensbasis
-- Wiederverwendbare Vorlagen und Dashboards
-- Verknüpfung von Normen, Definitionen, Fällen und Quellen
-- PDF-gestützte Wissensarbeit
-- Nutzung unter Linux und Windows
-- Erweiterbarkeit um lokale Automatisierung und JuraAI
-
-## Voraussetzungen
-
-- Obsidian Desktop
-- Git für Versionsverwaltung und Aktualisierungen
-- Python 3 nur für optionale Prüfwerkzeuge
+JuraOS soll das Lernen unterstützen, nicht selbst zum Lernprojekt werden.
 
 ## Schnellstart
 
-1. Repository herunterladen oder klonen.
-2. Obsidian öffnen.
-3. Den Ordner `vault/` als Vault öffnen.
-4. Die Dokumentation in `docs/` lesen.
-5. Den Vault zunächst mit den Beispielen und Vorlagen ausprobieren.
+1. Öffne https://github.com/RedstarLabs/JuraOS.
+2. Lade das Repository über `Code` → `Download ZIP` herunter.
+3. Entpacke es lokal.
+4. Öffne Obsidian und wähle den enthaltenen Ordner `vault/` als Vault.
+
+Eine Git-Installation ist für diesen Einstieg nicht erforderlich.
+
+## Ziele
+
+- Klare Dashboards und einfache Navigation
+- Wiederverwendbare Vorlagen
+- Verknüpfung von Rechtsgebieten, Definitionen, Fällen und Quellen
+- Nutzung unter Linux und Windows
+- Schrittweise Erweiterung nur bei erkennbarem Nutzen
 
 ## Datenschutz
 
-Dieses Repository enthält die gemeinsame Plattform und allgemeine
-Beispielinhalte, nicht persönliche Lernunterlagen.
+Das öffentliche Repository enthält die gemeinsame Plattform und allgemeine Beispiele,
+nicht persönliche Lernunterlagen.
 
-Persönliche Mitschriften, Lernstände und PDFs gehören in einen
-separaten persönlichen Vault außerhalb dieses Repositorys.
+Persönliche Mitschriften, Lernstände und PDFs gehören nicht in das öffentliche Repository.
+Die `.gitignore` schützt bestimmte lokale Dateien bei der Git-Nutzung, ist aber keine
+Garantie gegen versehentliche Veröffentlichung.
 
-Die `.gitignore` ist eine zusätzliche Schutzmaßnahme, aber keine
-Garantie dafür, dass vertrauliche Daten niemals veröffentlicht werden.
-Vor jedem Push müssen Änderungen geprüft werden.
+Vor jedem Commit und Push müssen die Änderungen geprüft werden.
+
+## Dokumentation
+
+- [Installation](docs/installation.md)
+- [Zusammenarbeit mit GitHub](docs/git-collaboration.md)
+- [Arbeitsablauf](docs/workflow.md)
 
 ## Plattformen
 
