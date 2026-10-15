@@ -1,0 +1,56 @@
+# Persönliche und sensible Dateien
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# PDFs und andere persönliche Dokumente
+*.pdf
+*.epub
+*.docx
+*.xlsx
+*.pptx
+
+# Obsidian: lokale Arbeitsumgebung
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
+vault/.obsidian/cache/
+
+# Persönliche Eingangs- und Lernbereiche
+vault/01 Inbox/*
+!vault/01 Inbox/README.md
+vault/09 Prüfungen/*
+!vault/09 Prüfungen/README.md
+
+# Betriebssystem und Editoren
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+# Temporäre Dateien und Logs
+*.log
+*.tmp
+*.bak
+
+# Obsidian: keine sitzungsbezogenen Daten veröffentlichen
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
+vault/.obsidian/cache/
+
+# Lokale persönliche Konfiguration
+vault/.obsidian/community-plugins.json
