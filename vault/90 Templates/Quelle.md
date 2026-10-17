@@ -2,12 +2,25 @@
 type: source
 subject:
 source_type:
+course:
 author:
 year:
 status: unread
+document:
 ---
 
 # {{title}}
+
+## Zugehörige Lehrveranstaltung
+
+- Kurs:
+- Themen:
+
+## Dokument
+
+- Lokale PDF-Datei:
+- Dokumenttyp:
+- Version / Stand:
 
 ## Bibliografische Angaben
 
@@ -17,7 +30,10 @@ status: unread
 - Erscheinungsjahr:
 - Fundstelle:
 
-## Relevante Seiten
+## Relevante Seiten und Fundstellen
+
+- Seite / Abschnitt:
+- PDF-Seitenlink:
 
 ## Kernaussagen
 
@@ -25,8 +41,9 @@ status: unread
 
 ## Verknüpfte Wissensnotizen
 
-## Eigene Bewertung
+## Eigene Bewertung und offene Fragen
 
 ## Hinweise zum Urheberrecht
 
 - Nutzungsrechte und Weitergabebeschränkungen prüfen.
+- Längere wörtliche Übernahmen vermeiden und Fundstellen dokumentieren.

@@ -58,3 +58,7 @@ vault/.obsidian/community-plugins.json
 # Persönliche Wochenplanungen
 vault/02 Studium/Wochenplanung/*
 !vault/02 Studium/Wochenplanung/README.md
+
+# Individuelle Vorlesungsquellen bleiben lokal
+/vault/08 Quellen/Vorlesungsunterlagen/*
+!/vault/08 Quellen/Vorlesungsunterlagen/README.md
